@@ -1,1 +1,1 @@
-function bye() {}
+function bye() {};
